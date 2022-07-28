@@ -37,4 +37,4 @@ export function calculate(input) {
   }, applyTo);
 }
 
-console.log(calculate(data));
+console.log('Result: ', calculate(data));

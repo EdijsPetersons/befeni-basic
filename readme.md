@@ -9,6 +9,10 @@ Any number of Instructions can be specified.
 Instructions can be any binary operators of your choice(e.g., add, divide, subtract, multiply etc).The instructions will ignore mathematical precedence.
 The last instruction should be apply and a number(e.g.apply 3).The calculator is then initialised with that number and the previous instructions are applied to that number.
 
+## General info
+
+Instructions are read from `input.txt` and the result is printed in the terminal. App supports `add`, `substract`, `multiply` and `divide` operations.
+
 ## Setup
 
 To run this project, install it locally using npm:
